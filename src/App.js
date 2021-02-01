@@ -40,7 +40,7 @@ function App() {
                      </div>
                   </div>
 
-                      <p className={Checkin ? "err text-danger text-center ": "err text-danger text-center hidden"}><i className="fa fa-warning"></i> Oops! Please, enter name item</p>
+                      <p className={Checkin ? "err text-danger text-center ": "err text-danger text-center hidden"}><i className="fa fa-warning"></i> Oops Honey! Please, enter name item</p>
                         <ul className="todo-list ui-sortable">
 
 

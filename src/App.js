@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import logo from './logo.png'
-import './App.css';
 import Todositems from './components/todos-items';
 import Footer from './components/footer';
 

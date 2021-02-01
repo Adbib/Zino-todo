@@ -7,7 +7,7 @@ export default function Footer() {
       <h4>
          Made with ❤️ by <a href="https://yadbib.com">YAD </a>
          <p> </p>
-         To my <a href="">ZINO</a> 🚀
+         To my <a href="https://yadbib.com">ZINO</a> 🚀
       </h4>
       </div>
 
